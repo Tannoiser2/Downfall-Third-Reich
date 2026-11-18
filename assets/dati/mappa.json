@@ -1,0 +1,2735 @@
+{
+ "img": [
+  4967,
+  3508
+ ],
+ "aree": {
+  "albania": {
+   "n": "Albania",
+   "naz": "ITA",
+   "x": 0.50453,
+   "y": 0.68871,
+   "idx": 1,
+   "vicini": [
+    "giannina",
+    "montenegro",
+    "nis"
+   ],
+   "mari": [
+    "Adriatico",
+    "Mediterraneo or."
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "alessandria": {
+   "n": "Alessandria",
+   "naz": "EGI",
+   "x": 0.72156,
+   "y": 0.91904,
+   "idx": 2,
+   "vicini": [
+    "el_alamein",
+    "suez"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ],
+   "conf": {
+    "suez": {
+     "s": 1
+    }
+   }
+  },
+  "algeri": {
+   "n": "Algeri",
+   "naz": "AFN",
+   "x": 0.21542,
+   "y": 0.83751,
+   "idx": 3,
+   "vicini": [
+    "orano",
+    "tebessa"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ]
+  },
+  "arcangelo": {
+   "n": "Arcangelo",
+   "naz": "URSS",
+   "x": 0.71472,
+   "y": 0.03706,
+   "idx": 5,
+   "vicini": [
+    "petrozavodsk",
+    "syktyvkar",
+    "volchov",
+    "vologda"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ]
+  },
+  "astrachan": {
+   "n": "Astrachan'",
+   "naz": "URSS",
+   "x": 0.90437,
+   "y": 0.38141,
+   "idx": 6,
+   "vicini": [
+    "elista",
+    "groznyj",
+    "gurev",
+    "stalingrado"
+   ],
+   "mari": [
+    "Caspio"
+   ],
+   "est": 1,
+   "conf": {
+    "gurev": {
+     "f": 1
+    }
+   }
+  },
+  "atene": {
+   "n": "Atene",
+   "naz": "GRE",
+   "x": 0.54922,
+   "y": 0.77309,
+   "idx": 7,
+   "vicini": [
+    "giannina"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ],
+   "terr": [
+    "montagna"
+   ],
+   "cap": "GRE"
+  },
+  "baku": {
+   "n": "Baku",
+   "naz": "URSS",
+   "x": 0.93618,
+   "y": 0.53079,
+   "idx": 8,
+   "vicini": [
+    "groznyj",
+    "tbilisi"
+   ],
+   "mari": [
+    "Caspio"
+   ],
+   "est": 1,
+   "conf": {
+    "groznyj": {
+     "a": 1
+    }
+   }
+  },
+  "baskuncak": {
+   "n": "Baskunčak",
+   "naz": "URSS",
+   "x": 0.89632,
+   "y": 0.24857,
+   "idx": 9,
+   "vicini": [
+    "gurev",
+    "kazakistan",
+    "kujbysev",
+    "saratov",
+    "stalingrado"
+   ],
+   "mari": [],
+   "terr": [
+    "palude"
+   ],
+   "est": 1,
+   "conf": {
+    "saratov": {
+     "f": 1
+    },
+    "stalingrado": {
+     "f": 1
+    }
+   }
+  },
+  "belgrado": {
+   "n": "Belgrado",
+   "naz": "JUG",
+   "x": 0.49728,
+   "y": 0.56727,
+   "idx": 10,
+   "vicini": [
+    "budapest",
+    "debrecen",
+    "montenegro",
+    "nis",
+    "sofia",
+    "transilvania",
+    "zagabria"
+   ],
+   "mari": [],
+   "cap": "JUG",
+   "conf": {
+    "budapest": {
+     "f": 1
+    },
+    "debrecen": {
+     "f": 1
+    },
+    "transilvania": {
+     "f": 1
+    }
+   }
+  },
+  "bengasi": {
+   "n": "Bengasi",
+   "naz": "LIB",
+   "x": 0.53191,
+   "y": 0.97035,
+   "idx": 11,
+   "vicini": [
+    "bir_hacheim",
+    "el_agheila",
+    "tobruch"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ]
+  },
+  "bergen": {
+   "n": "Bergen",
+   "naz": "NOR",
+   "x": 0.30924,
+   "y": 0.12429,
+   "idx": 12,
+   "vicini": [
+    "oslo",
+    "trondheim"
+   ],
+   "mari": [
+    "Mare del Nord"
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "berlino": {
+   "n": "Berlino",
+   "naz": "GER",
+   "x": 0.40628,
+   "y": 0.33751,
+   "idx": 13,
+   "vicini": [
+    "amburgo",
+    "breslavia",
+    "danzica",
+    "dresda",
+    "lipsia"
+   ],
+   "mari": [
+    "Baltico"
+   ],
+   "rif": "asse",
+   "chiave": "GER",
+   "cap": "GER"
+  },
+  "bir_hacheim": {
+   "n": "Bir Hacheim",
+   "naz": "LIB",
+   "x": 0.56694,
+   "y": 0.97891,
+   "idx": 14,
+   "vicini": [
+    "bengasi",
+    "marsa_matruh",
+    "tobruch"
+   ],
+   "mari": []
+  },
+  "bordeaux": {
+   "n": "Bordeaux",
+   "naz": "FRA",
+   "x": 0.17556,
+   "y": 0.58039,
+   "idx": 15,
+   "vicini": [
+    "montpellier",
+    "nantes",
+    "vichy"
+   ],
+   "mari": [
+    "Biscaglia"
+   ]
+  },
+  "brasov": {
+   "n": "Brașov",
+   "naz": "ROM",
+   "x": 0.58506,
+   "y": 0.49601,
+   "idx": 16,
+   "vicini": [
+    "bucarest",
+    "costanza",
+    "debrecen",
+    "odessa",
+    "tarnopol",
+    "transilvania",
+    "vinnica"
+   ],
+   "mari": [],
+   "terr": [
+    "montagna"
+   ],
+   "conf": {
+    "odessa": {
+     "f": 1
+    }
+   }
+  },
+  "breslavia": {
+   "n": "Breslavia",
+   "naz": "GER",
+   "x": 0.46145,
+   "y": 0.35405,
+   "idx": 17,
+   "vicini": [
+    "berlino",
+    "danzica",
+    "dresda",
+    "konigsberg",
+    "praga",
+    "varsavia"
+   ],
+   "mari": [],
+   "rif": "asse",
+   "chiave": "GER"
+  },
+  "bretagna": {
+   "n": "Bretagna",
+   "naz": "FRA",
+   "x": 0.15623,
+   "y": 0.45097,
+   "idx": 18,
+   "vicini": [
+    "nantes",
+    "normandia"
+   ],
+   "mari": [
+    "Atlantico",
+    "Biscaglia",
+    "Manica"
+   ]
+  },
+  "bruxelles": {
+   "n": "Bruxelles",
+   "naz": "BEL",
+   "x": 0.26294,
+   "y": 0.37685,
+   "idx": 20,
+   "vicini": [
+    "calais",
+    "francoforte",
+    "reims",
+    "ruhr"
+   ],
+   "mari": [
+    "Mare del Nord"
+   ],
+   "cap": "BEL"
+  },
+  "brjansk": {
+   "n": "Brjansk",
+   "naz": "URSS",
+   "x": 0.66237,
+   "y": 0.28734,
+   "idx": 19,
+   "vicini": [
+    "kiev",
+    "kursk",
+    "minsk",
+    "pripjat",
+    "smolensk",
+    "tula"
+   ],
+   "mari": []
+  },
+  "bucarest": {
+   "n": "Bucarest",
+   "naz": "ROM",
+   "x": 0.57942,
+   "y": 0.55815,
+   "idx": 21,
+   "vicini": [
+    "brasov",
+    "costanza",
+    "sofia",
+    "transilvania",
+    "varna"
+   ],
+   "mari": [],
+   "cap": "ROM",
+   "conf": {
+    "costanza": {
+     "f": 1
+    },
+    "sofia": {
+     "f": 1
+    },
+    "varna": {
+     "f": 1
+    }
+   }
+  },
+  "budapest": {
+   "n": "Budapest",
+   "naz": "UNG",
+   "x": 0.46708,
+   "y": 0.50513,
+   "idx": 22,
+   "vicini": [
+    "belgrado",
+    "debrecen",
+    "praga",
+    "vienna",
+    "zagabria"
+   ],
+   "mari": [],
+   "cap": "UNG",
+   "conf": {
+    "belgrado": {
+     "f": 1
+    },
+    "debrecen": {
+     "f": 1
+    }
+   }
+  },
+  "calabria": {
+   "n": "Calabria",
+   "naz": "ITA",
+   "x": 0.44776,
+   "y": 0.69669,
+   "idx": 23,
+   "vicini": [
+    "napoli",
+    "sicilia"
+   ],
+   "mari": [
+    "Adriatico",
+    "Mediterraneo occ.",
+    "Mediterraneo or."
+   ],
+   "terr": [
+    "montagna"
+   ],
+   "conf": {
+    "sicilia": {
+     "s": 1
+    }
+   }
+  },
+  "calais": {
+   "n": "Calais",
+   "naz": "FRA",
+   "x": 0.2271,
+   "y": 0.40251,
+   "idx": 24,
+   "vicini": [
+    "bruxelles",
+    "normandia",
+    "parigi",
+    "reims"
+   ],
+   "mari": [
+    "Manica",
+    "Mare del Nord"
+   ]
+  },
+  "canada": {
+   "n": "Canada",
+   "naz": "GB",
+   "x": 0.04027,
+   "y": 0.35633,
+   "idx": 25,
+   "vicini": [
+    "usa"
+   ],
+   "mari": [
+    "Atlantico"
+   ],
+   "rif": "alleati"
+  },
+  "casablanca": {
+   "n": "Casablanca",
+   "naz": "AFN",
+   "x": 0.04993,
+   "y": 0.85348,
+   "idx": 27,
+   "vicini": [
+    "taza"
+   ],
+   "mari": [
+    "Atlantico"
+   ]
+  },
+  "celjabinsk": {
+   "n": "Čeljabinsk",
+   "naz": "URSS",
+   "x": 0.95832,
+   "y": 0.15393,
+   "idx": 28,
+   "vicini": [
+    "kazakistan",
+    "kujbysev",
+    "perm",
+    "sverdlovsk"
+   ],
+   "mari": [],
+   "terr": [
+    "montagna"
+   ],
+   "rif": "urss",
+   "est": 1
+  },
+  "costanza": {
+   "n": "Costanza",
+   "naz": "ROM",
+   "x": 0.63741,
+   "y": 0.561,
+   "idx": 31,
+   "vicini": [
+    "brasov",
+    "bucarest",
+    "odessa",
+    "varna"
+   ],
+   "mari": [
+    "Mar Nero"
+   ],
+   "terr": [
+    "palude"
+   ],
+   "conf": {
+    "bucarest": {
+     "f": 1
+    },
+    "odessa": {
+     "f": 1
+    },
+    "varna": {
+     "f": 1
+    }
+   }
+  },
+  "copenaghen": {
+   "n": "Copenaghen",
+   "naz": "DAN",
+   "x": 0.33582,
+   "y": 0.21266,
+   "idx": 30,
+   "vicini": [
+    "amburgo"
+   ],
+   "mari": [
+    "Baltico",
+    "Mare del Nord"
+   ],
+   "cap": "DAN"
+  },
+  "danzica": {
+   "n": "Danzica",
+   "naz": "GER",
+   "x": 0.45178,
+   "y": 0.2919,
+   "idx": 32,
+   "vicini": [
+    "berlino",
+    "breslavia",
+    "konigsberg"
+   ],
+   "mari": [
+    "Baltico"
+   ]
+  },
+  "debrecen": {
+   "n": "Debrecen",
+   "naz": "UNG",
+   "x": 0.50976,
+   "y": 0.49316,
+   "idx": 33,
+   "vicini": [
+    "belgrado",
+    "brasov",
+    "budapest",
+    "praga",
+    "tarnopol",
+    "tarnow",
+    "transilvania"
+   ],
+   "mari": [],
+   "terr": [
+    "montagna"
+   ],
+   "conf": {
+    "belgrado": {
+     "f": 1
+    },
+    "budapest": {
+     "f": 1
+    }
+   }
+  },
+  "dnepropetrovsk": {
+   "n": "Dnepropetrovsk",
+   "naz": "URSS",
+   "x": 0.69982,
+   "y": 0.42474,
+   "idx": 34,
+   "vicini": [
+    "charkov",
+    "kiev",
+    "odessa",
+    "sebastopoli",
+    "stalino",
+    "vinnica"
+   ],
+   "mari": [
+    "Mar Nero"
+   ]
+  },
+  "dresda": {
+   "n": "Dresda",
+   "naz": "GER",
+   "x": 0.41514,
+   "y": 0.40935,
+   "idx": 35,
+   "vicini": [
+    "berlino",
+    "breslavia",
+    "lipsia",
+    "monaco",
+    "praga",
+    "vienna"
+   ],
+   "mari": []
+  },
+  "dvinsk": {
+   "n": "Dvinsk",
+   "naz": "URSS",
+   "x": 0.59714,
+   "y": 0.21152,
+   "idx": 36,
+   "vicini": [
+    "minsk",
+    "pskov",
+    "riga",
+    "smolensk",
+    "tallinn",
+    "vilnius"
+   ],
+   "mari": []
+  },
+  "el_agheila": {
+   "n": "El Agheila",
+   "naz": "LIB",
+   "x": 0.47312,
+   "y": 0.97662,
+   "idx": 37,
+   "vicini": [
+    "bengasi",
+    "sirte"
+   ],
+   "mari": [
+    "Mediterraneo occ.",
+    "Mediterraneo or."
+   ],
+   "terr": [
+    "passo"
+   ]
+  },
+  "el_alamein": {
+   "n": "El Alamein",
+   "naz": "EGI",
+   "x": 0.68049,
+   "y": 0.94584,
+   "idx": 38,
+   "vicini": [
+    "alessandria",
+    "marsa_matruh"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ],
+   "terr": [
+    "passo"
+   ]
+  },
+  "elista": {
+   "n": "Elista",
+   "naz": "URSS",
+   "x": 0.87014,
+   "y": 0.42759,
+   "idx": 39,
+   "vicini": [
+    "astrachan",
+    "groznyj",
+    "majkop",
+    "rostov",
+    "stalingrado",
+    "tbilisi"
+   ],
+   "mari": [],
+   "conf": {
+    "tbilisi": {
+     "a": 1
+    }
+   }
+  },
+  "francoforte": {
+   "n": "Francoforte",
+   "naz": "GER",
+   "x": 0.32817,
+   "y": 0.39396,
+   "idx": 40,
+   "vicini": [
+    "bruxelles",
+    "lipsia",
+    "nancy",
+    "reims",
+    "ruhr",
+    "stoccarda"
+   ],
+   "mari": [],
+   "chiave": "GER",
+   "conf": {
+    "bruxelles": {
+     "f": 1
+    },
+    "nancy": {
+     "f": 1,
+     "l": 1
+    },
+    "reims": {
+     "f": 1
+    }
+   }
+  },
+  "gorkij": {
+   "n": "Gor'kij",
+   "naz": "URSS",
+   "x": 0.79565,
+   "y": 0.15165,
+   "idx": 42,
+   "vicini": [
+    "kirov",
+    "mosca",
+    "penza",
+    "rjazan",
+    "vladimir"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ],
+   "rif": "urss"
+  },
+  "groznyj": {
+   "n": "Groznyj",
+   "naz": "URSS",
+   "x": 0.90236,
+   "y": 0.43729,
+   "idx": 43,
+   "vicini": [
+    "astrachan",
+    "baku",
+    "elista",
+    "tbilisi"
+   ],
+   "mari": [
+    "Caspio"
+   ],
+   "fort": 1,
+   "est": 1,
+   "conf": {
+    "baku": {
+     "a": 1
+    },
+    "tbilisi": {
+     "a": 1
+    }
+   }
+  },
+  "gurev": {
+   "n": "Gur'ev",
+   "naz": "URSS",
+   "x": 0.92289,
+   "y": 0.31471,
+   "idx": 44,
+   "vicini": [
+    "astrachan",
+    "baskuncak",
+    "kazakistan",
+    "stalingrado"
+   ],
+   "mari": [
+    "Caspio"
+   ],
+   "terr": [
+    "palude"
+   ],
+   "est": 1,
+   "conf": {
+    "astrachan": {
+     "f": 1
+    },
+    "stalingrado": {
+     "f": 1
+    }
+   }
+  },
+  "amburgo": {
+   "n": "Amburgo",
+   "naz": "GER",
+   "x": 0.35313,
+   "y": 0.31471,
+   "idx": 4,
+   "vicini": [
+    "berlino",
+    "copenaghen",
+    "lipsia",
+    "ruhr"
+   ],
+   "mari": [
+    "Baltico",
+    "Mare del Nord"
+   ]
+  },
+  "helsinki": {
+   "n": "Helsinki",
+   "naz": "FIN",
+   "x": 0.5154,
+   "y": 0.05701,
+   "idx": 45,
+   "vicini": [
+    "carelia"
+   ],
+   "mari": [
+    "Baltico"
+   ],
+   "terr": [
+    "palude"
+   ],
+   "cap": "FIN",
+   "conf": {
+    "carelia": {
+     "l": 1
+    }
+   }
+  },
+  "giannina": {
+   "n": "Giannina",
+   "naz": "GRE",
+   "x": 0.53352,
+   "y": 0.70468,
+   "idx": 41,
+   "vicini": [
+    "albania",
+    "atene",
+    "nis",
+    "salonicco"
+   ],
+   "mari": [
+    "Adriatico",
+    "Mediterraneo or."
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "irlanda": {
+   "n": "Irlanda",
+   "naz": "GB",
+   "x": 0.10831,
+   "y": 0.27081,
+   "idx": 46,
+   "vicini": [],
+   "mari": [
+    "Atlantico"
+   ]
+  },
+  "kalinin": {
+   "n": "Kalinin",
+   "naz": "URSS",
+   "x": 0.69136,
+   "y": 0.14025,
+   "idx": 47,
+   "vicini": [
+    "leningrado",
+    "mosca",
+    "pskov",
+    "smolensk",
+    "tula",
+    "volchov",
+    "vologda"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ]
+  },
+  "carelia": {
+   "n": "Carelia",
+   "naz": "FIN",
+   "x": 0.57781,
+   "y": 0.03421,
+   "idx": 26,
+   "vicini": [
+    "helsinki",
+    "leningrado",
+    "petrozavodsk"
+   ],
+   "mari": [],
+   "terr": [
+    "palude"
+   ],
+   "conf": {
+    "helsinki": {
+     "l": 1
+    }
+   }
+  },
+  "kazakistan": {
+   "n": "Kazakistan",
+   "naz": "URSS",
+   "x": 0.96638,
+   "y": 0.27366,
+   "idx": 48,
+   "vicini": [
+    "baskuncak",
+    "celjabinsk",
+    "gurev",
+    "kujbysev"
+   ],
+   "mari": [
+    "Caspio"
+   ],
+   "rif": "urss",
+   "est": 1
+  },
+  "charkov": {
+   "n": "Char'kov",
+   "naz": "URSS",
+   "x": 0.72881,
+   "y": 0.34265,
+   "idx": 29,
+   "vicini": [
+    "dnepropetrovsk",
+    "kiev",
+    "kursk",
+    "lugansk",
+    "stalino"
+   ],
+   "mari": [],
+   "chiave": "URSS"
+  },
+  "kiev": {
+   "n": "Kiev",
+   "naz": "URSS",
+   "x": 0.68573,
+   "y": 0.34493,
+   "idx": 49,
+   "vicini": [
+    "brjansk",
+    "charkov",
+    "dnepropetrovsk",
+    "kursk",
+    "pripjat",
+    "vinnica"
+   ],
+   "mari": [],
+   "fort": 1,
+   "chiave": "URSS"
+  },
+  "kirov": {
+   "n": "Kirov",
+   "naz": "URSS",
+   "x": 0.82947,
+   "y": 0.08552,
+   "idx": 50,
+   "vicini": [
+    "gorkij",
+    "komi",
+    "kujbysev",
+    "penza",
+    "perm",
+    "syktyvkar",
+    "vladimir"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ],
+   "conf": {
+    "kujbysev": {
+     "f": 1
+    },
+    "penza": {
+     "f": 1
+    }
+   }
+  },
+  "komi": {
+   "n": "Komi",
+   "naz": "URSS",
+   "x": 0.86571,
+   "y": 0.04276,
+   "idx": 51,
+   "vicini": [
+    "kirov",
+    "perm",
+    "sverdlovsk",
+    "syktyvkar"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ],
+   "est": 1
+  },
+  "kovel": {
+   "n": "Kovel'",
+   "naz": "URSS",
+   "x": 0.56694,
+   "y": 0.34208,
+   "idx": 53,
+   "vicini": [
+    "minsk",
+    "pripjat",
+    "tarnopol",
+    "tarnow",
+    "varsavia",
+    "vilnius"
+   ],
+   "mari": []
+  },
+  "kursk": {
+   "n": "Kursk",
+   "naz": "URSS",
+   "x": 0.72358,
+   "y": 0.28278,
+   "idx": 55,
+   "vicini": [
+    "brjansk",
+    "charkov",
+    "kiev",
+    "lugansk",
+    "tula",
+    "voronez"
+   ],
+   "mari": []
+  },
+  "kujbysev": {
+   "n": "Kujbyšev",
+   "naz": "URSS",
+   "x": 0.91363,
+   "y": 0.15279,
+   "idx": 54,
+   "vicini": [
+    "baskuncak",
+    "celjabinsk",
+    "kazakistan",
+    "kirov",
+    "penza",
+    "perm",
+    "saratov"
+   ],
+   "mari": [],
+   "terr": [
+    "palude"
+   ],
+   "rif": "urss",
+   "chiave": "URSS",
+   "est": 1,
+   "conf": {
+    "kirov": {
+     "f": 1
+    },
+    "penza": {
+     "f": 1
+    },
+    "saratov": {
+     "f": 1
+    }
+   }
+  },
+  "konigsberg": {
+   "n": "Königsberg",
+   "naz": "GER",
+   "x": 0.48722,
+   "y": 0.29532,
+   "idx": 52,
+   "vicini": [
+    "breslavia",
+    "danzica",
+    "riga",
+    "varsavia",
+    "vilnius"
+   ],
+   "mari": [
+    "Baltico"
+   ],
+   "terr": [
+    "foresta"
+   ]
+  },
+  "lipsia": {
+   "n": "Lipsia",
+   "naz": "GER",
+   "x": 0.36722,
+   "y": 0.39795,
+   "idx": 57,
+   "vicini": [
+    "amburgo",
+    "berlino",
+    "dresda",
+    "francoforte",
+    "monaco",
+    "ruhr",
+    "stoccarda"
+   ],
+   "mari": []
+  },
+  "leningrado": {
+   "n": "Leningrado",
+   "naz": "URSS",
+   "x": 0.60399,
+   "y": 0.11973,
+   "idx": 56,
+   "vicini": [
+    "carelia",
+    "kalinin",
+    "petrozavodsk",
+    "pskov",
+    "tallinn",
+    "volchov"
+   ],
+   "mari": [
+    "Baltico"
+   ],
+   "terr": [
+    "palude"
+   ],
+   "fort": 1,
+   "chiave": "URSS"
+  },
+  "londra": {
+   "n": "Londra",
+   "naz": "GB",
+   "x": 0.19529,
+   "y": 0.33637,
+   "idx": 58,
+   "vicini": [
+    "manchester",
+    "plymouth"
+   ],
+   "mari": [
+    "Manica",
+    "Mare del Nord"
+   ],
+   "rif": "alleati",
+   "cap": "GB"
+  },
+  "lugansk": {
+   "n": "Lugansk",
+   "naz": "URSS",
+   "x": 0.79364,
+   "y": 0.33922,
+   "idx": 59,
+   "vicini": [
+    "charkov",
+    "kursk",
+    "rostov",
+    "stalingrado",
+    "stalino",
+    "voronez"
+   ],
+   "mari": [],
+   "conf": {
+    "rostov": {
+     "f": 1
+    },
+    "stalingrado": {
+     "f": 1
+    },
+    "voronez": {
+     "f": 1
+    }
+   }
+  },
+  "majkop": {
+   "n": "Majkop",
+   "naz": "URSS",
+   "x": 0.81297,
+   "y": 0.46408,
+   "idx": 60,
+   "vicini": [
+    "elista",
+    "rostov",
+    "sebastopoli",
+    "tbilisi"
+   ],
+   "mari": [
+    "Mar Nero"
+   ],
+   "conf": {
+    "sebastopoli": {
+     "s": 1
+    },
+    "tbilisi": {
+     "a": 1
+    }
+   }
+  },
+  "manchester": {
+   "n": "Manchester",
+   "naz": "GB",
+   "x": 0.18401,
+   "y": 0.27993,
+   "idx": 61,
+   "vicini": [
+    "londra",
+    "plymouth",
+    "scozia"
+   ],
+   "mari": [
+    "Atlantico",
+    "Mare del Nord"
+   ]
+  },
+  "mareth": {
+   "n": "Mareth",
+   "naz": "AFN",
+   "x": 0.32615,
+   "y": 0.92018,
+   "idx": 62,
+   "vicini": [
+    "tebessa",
+    "tripoli",
+    "tunisi"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ],
+   "terr": [
+    "passo"
+   ]
+  },
+  "marsiglia": {
+   "n": "Marsiglia",
+   "naz": "FRA",
+   "x": 0.26656,
+   "y": 0.59977,
+   "idx": 64,
+   "vicini": [
+    "milano",
+    "montpellier",
+    "nancy",
+    "vichy"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ],
+   "conf": {
+    "milano": {
+     "a": 1
+    }
+   }
+  },
+  "marsa_matruh": {
+   "n": "Marsa Matruh",
+   "naz": "EGI",
+   "x": 0.63539,
+   "y": 0.94869,
+   "idx": 63,
+   "vicini": [
+    "bir_hacheim",
+    "el_alamein",
+    "tobruch"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ]
+  },
+  "milano": {
+   "n": "Milano",
+   "naz": "ITA",
+   "x": 0.32293,
+   "y": 0.56043,
+   "idx": 65,
+   "vicini": [
+    "marsiglia",
+    "toscana",
+    "veneto"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ],
+   "conf": {
+    "marsiglia": {
+     "a": 1
+    }
+   }
+  },
+  "minsk": {
+   "n": "Minsk",
+   "naz": "URSS",
+   "x": 0.61325,
+   "y": 0.27252,
+   "idx": 66,
+   "vicini": [
+    "brjansk",
+    "dvinsk",
+    "kovel",
+    "pripjat",
+    "smolensk",
+    "vilnius"
+   ],
+   "mari": [],
+   "chiave": "URSS"
+  },
+  "montenegro": {
+   "n": "Montenegro",
+   "naz": "JUG",
+   "x": 0.49205,
+   "y": 0.61003,
+   "idx": 68,
+   "vicini": [
+    "albania",
+    "belgrado",
+    "nis",
+    "zagabria"
+   ],
+   "mari": [
+    "Adriatico"
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "montpellier": {
+   "n": "Montpellier",
+   "naz": "FRA",
+   "x": 0.21582,
+   "y": 0.59179,
+   "idx": 69,
+   "vicini": [
+    "bordeaux",
+    "marsiglia",
+    "vichy"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ]
+  },
+  "mosca": {
+   "n": "Mosca",
+   "naz": "URSS",
+   "x": 0.74331,
+   "y": 0.12201,
+   "idx": 70,
+   "vicini": [
+    "gorkij",
+    "kalinin",
+    "rjazan",
+    "tula",
+    "vladimir",
+    "vologda"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ],
+   "fort": 1,
+   "chiave": "URSS",
+   "cap": "URSS"
+  },
+  "monaco": {
+   "n": "Monaco di Baviera",
+   "naz": "GER",
+   "x": 0.3789,
+   "y": 0.45781,
+   "idx": 67,
+   "vicini": [
+    "dresda",
+    "lipsia",
+    "stoccarda",
+    "veneto",
+    "vienna"
+   ],
+   "mari": [],
+   "rif": "asse",
+   "chiave": "GER",
+   "conf": {
+    "veneto": {
+     "a": 1
+    }
+   }
+  },
+  "nancy": {
+   "n": "Nancy",
+   "naz": "FRA",
+   "x": 0.27018,
+   "y": 0.48803,
+   "idx": 71,
+   "vicini": [
+    "francoforte",
+    "marsiglia",
+    "parigi",
+    "reims",
+    "stoccarda",
+    "vichy"
+   ],
+   "mari": [],
+   "conf": {
+    "francoforte": {
+     "l": 1
+    },
+    "stoccarda": {
+     "l": 1
+    }
+   }
+  },
+  "nantes": {
+   "n": "Nantes",
+   "naz": "FRA",
+   "x": 0.18522,
+   "y": 0.52052,
+   "idx": 72,
+   "vicini": [
+    "bordeaux",
+    "bretagna",
+    "normandia",
+    "parigi",
+    "vichy"
+   ],
+   "mari": [
+    "Biscaglia"
+   ]
+  },
+  "napoli": {
+   "n": "Napoli",
+   "naz": "ITA",
+   "x": 0.42843,
+   "y": 0.67332,
+   "idx": 73,
+   "vicini": [
+    "calabria",
+    "roma"
+   ],
+   "mari": [
+    "Adriatico",
+    "Mediterraneo occ."
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "nis": {
+   "n": "Niš",
+   "naz": "JUG",
+   "x": 0.52466,
+   "y": 0.62087,
+   "idx": 74,
+   "vicini": [
+    "albania",
+    "belgrado",
+    "giannina",
+    "montenegro",
+    "salonicco",
+    "sofia"
+   ],
+   "mari": [],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "normandia": {
+   "n": "Normandia",
+   "naz": "FRA",
+   "x": 0.18603,
+   "y": 0.44014,
+   "idx": 75,
+   "vicini": [
+    "bretagna",
+    "calais",
+    "nantes",
+    "parigi"
+   ],
+   "mari": [
+    "Manica"
+   ]
+  },
+  "odessa": {
+   "n": "Odessa",
+   "naz": "URSS",
+   "x": 0.66277,
+   "y": 0.46807,
+   "idx": 76,
+   "vicini": [
+    "brasov",
+    "costanza",
+    "dnepropetrovsk",
+    "vinnica"
+   ],
+   "mari": [
+    "Mar Nero"
+   ],
+   "fort": 1,
+   "conf": {
+    "brasov": {
+     "f": 1
+    },
+    "costanza": {
+     "f": 1
+    }
+   }
+  },
+  "orano": {
+   "n": "Orano",
+   "naz": "AFN",
+   "x": 0.15583,
+   "y": 0.84664,
+   "idx": 77,
+   "vicini": [
+    "algeri",
+    "taza"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ]
+  },
+  "oslo": {
+   "n": "Oslo",
+   "naz": "NOR",
+   "x": 0.35313,
+   "y": 0.09521,
+   "idx": 78,
+   "vicini": [
+    "bergen",
+    "trondheim"
+   ],
+   "mari": [
+    "Baltico",
+    "Mare del Nord"
+   ],
+   "cap": "NOR"
+  },
+  "parigi": {
+   "n": "Parigi",
+   "naz": "FRA",
+   "x": 0.22428,
+   "y": 0.47434,
+   "idx": 79,
+   "vicini": [
+    "calais",
+    "nancy",
+    "nantes",
+    "normandia",
+    "reims",
+    "vichy"
+   ],
+   "mari": [],
+   "cap": "FRA"
+  },
+  "penza": {
+   "n": "Penza",
+   "naz": "URSS",
+   "x": 0.84357,
+   "y": 0.17047,
+   "idx": 80,
+   "vicini": [
+    "gorkij",
+    "kirov",
+    "kujbysev",
+    "rjazan",
+    "saratov"
+   ],
+   "mari": [],
+   "conf": {
+    "kirov": {
+     "f": 1
+    },
+    "kujbysev": {
+     "f": 1
+    }
+   }
+  },
+  "perm": {
+   "n": "Perm",
+   "naz": "URSS",
+   "x": 0.89189,
+   "y": 0.09122,
+   "idx": 81,
+   "vicini": [
+    "celjabinsk",
+    "kirov",
+    "komi",
+    "kujbysev",
+    "sverdlovsk"
+   ],
+   "mari": [],
+   "est": 1
+  },
+  "petrozavodsk": {
+   "n": "Petrozavodsk",
+   "naz": "URSS",
+   "x": 0.63419,
+   "y": 0.04561,
+   "idx": 82,
+   "vicini": [
+    "arcangelo",
+    "carelia",
+    "leningrado",
+    "volchov"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ]
+  },
+  "plymouth": {
+   "n": "Plymouth",
+   "naz": "GB",
+   "x": 0.16147,
+   "y": 0.32269,
+   "idx": 83,
+   "vicini": [
+    "londra",
+    "manchester"
+   ],
+   "mari": [
+    "Atlantico",
+    "Manica"
+   ]
+  },
+  "praga": {
+   "n": "Praga",
+   "naz": "GER",
+   "x": 0.4703,
+   "y": 0.42759,
+   "idx": 84,
+   "vicini": [
+    "breslavia",
+    "budapest",
+    "debrecen",
+    "dresda",
+    "tarnow",
+    "varsavia",
+    "vienna"
+   ],
+   "mari": []
+  },
+  "pripjat": {
+   "n": "Pripjat'",
+   "naz": "URSS",
+   "x": 0.62331,
+   "y": 0.35234,
+   "idx": 85,
+   "vicini": [
+    "brjansk",
+    "kiev",
+    "kovel",
+    "minsk",
+    "tarnopol",
+    "vinnica"
+   ],
+   "mari": [],
+   "terr": [
+    "palude"
+   ]
+  },
+  "pskov": {
+   "n": "Pskov",
+   "naz": "URSS",
+   "x": 0.63821,
+   "y": 0.16363,
+   "idx": 86,
+   "vicini": [
+    "dvinsk",
+    "kalinin",
+    "leningrado",
+    "smolensk",
+    "tallinn"
+   ],
+   "mari": []
+  },
+  "reims": {
+   "n": "Reims",
+   "naz": "FRA",
+   "x": 0.25649,
+   "y": 0.44185,
+   "idx": 87,
+   "vicini": [
+    "bruxelles",
+    "calais",
+    "francoforte",
+    "nancy",
+    "parigi"
+   ],
+   "mari": []
+  },
+  "riga": {
+   "n": "Riga",
+   "naz": "URSS",
+   "x": 0.5307,
+   "y": 0.21038,
+   "idx": 88,
+   "vicini": [
+    "dvinsk",
+    "konigsberg",
+    "tallinn",
+    "vilnius"
+   ],
+   "mari": [
+    "Baltico"
+   ]
+  },
+  "roma": {
+   "n": "Roma",
+   "naz": "ITA",
+   "x": 0.38494,
+   "y": 0.66534,
+   "idx": 90,
+   "vicini": [
+    "napoli",
+    "toscana"
+   ],
+   "mari": [
+    "Adriatico",
+    "Mediterraneo occ."
+   ],
+   "terr": [
+    "montagna"
+   ],
+   "cap": "ITA"
+  },
+  "rostov": {
+   "n": "Rostov",
+   "naz": "URSS",
+   "x": 0.82786,
+   "y": 0.37913,
+   "idx": 91,
+   "vicini": [
+    "elista",
+    "lugansk",
+    "majkop",
+    "stalingrado",
+    "stalino"
+   ],
+   "mari": [
+    "Mar Nero"
+   ],
+   "chiave": "URSS",
+   "conf": {
+    "lugansk": {
+     "f": 1
+    }
+   }
+  },
+  "ruhr": {
+   "n": "Ruhr",
+   "naz": "GER",
+   "x": 0.31407,
+   "y": 0.33637,
+   "idx": 92,
+   "vicini": [
+    "amburgo",
+    "bruxelles",
+    "francoforte",
+    "lipsia"
+   ],
+   "mari": [
+    "Mare del Nord"
+   ],
+   "rif": "asse",
+   "chiave": "GER",
+   "conf": {
+    "bruxelles": {
+     "f": 1
+    }
+   }
+  },
+  "rjazan": {
+   "n": "Rjazan'",
+   "naz": "URSS",
+   "x": 0.79968,
+   "y": 0.2195,
+   "idx": 89,
+   "vicini": [
+    "gorkij",
+    "mosca",
+    "penza",
+    "saratov",
+    "tula",
+    "voronez"
+   ],
+   "mari": []
+  },
+  "salonicco": {
+   "n": "Salonicco",
+   "naz": "GRE",
+   "x": 0.56412,
+   "y": 0.67161,
+   "idx": 93,
+   "vicini": [
+    "giannina",
+    "nis",
+    "sofia",
+    "varna"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "saratov": {
+   "n": "Saratov",
+   "naz": "URSS",
+   "x": 0.84316,
+   "y": 0.24287,
+   "idx": 94,
+   "vicini": [
+    "baskuncak",
+    "kujbysev",
+    "penza",
+    "rjazan",
+    "stalingrado",
+    "voronez"
+   ],
+   "mari": [],
+   "conf": {
+    "baskuncak": {
+     "f": 1
+    },
+    "kujbysev": {
+     "f": 1
+    }
+   }
+  },
+  "scozia": {
+   "n": "Scozia",
+   "naz": "GB",
+   "x": 0.17677,
+   "y": 0.18073,
+   "idx": 95,
+   "vicini": [
+    "manchester"
+   ],
+   "mari": [
+    "Atlantico",
+    "Mare del Nord"
+   ],
+   "terr": [
+    "montagna"
+   ],
+   "rif": "alleati"
+  },
+  "sebastopoli": {
+   "n": "Sebastopoli",
+   "naz": "URSS",
+   "x": 0.73445,
+   "y": 0.45496,
+   "idx": 96,
+   "vicini": [
+    "dnepropetrovsk",
+    "majkop",
+    "stalino"
+   ],
+   "mari": [
+    "Mar Nero"
+   ],
+   "fort": 1,
+   "conf": {
+    "majkop": {
+     "s": 1
+    }
+   }
+  },
+  "sicilia": {
+   "n": "Sicilia",
+   "naz": "ITA",
+   "x": 0.41071,
+   "y": 0.79247,
+   "idx": 97,
+   "vicini": [
+    "calabria"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ],
+   "conf": {
+    "calabria": {
+     "s": 1
+    }
+   }
+  },
+  "sirte": {
+   "n": "Sirte",
+   "naz": "LIB",
+   "x": 0.42078,
+   "y": 0.96408,
+   "idx": 98,
+   "vicini": [
+    "el_agheila",
+    "tripoli"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ]
+  },
+  "smolensk": {
+   "n": "Smolensk",
+   "naz": "URSS",
+   "x": 0.66116,
+   "y": 0.22007,
+   "idx": 99,
+   "vicini": [
+    "brjansk",
+    "dvinsk",
+    "kalinin",
+    "minsk",
+    "pskov",
+    "tula"
+   ],
+   "mari": []
+  },
+  "sofia": {
+   "n": "Sofia",
+   "naz": "BUL",
+   "x": 0.57057,
+   "y": 0.61631,
+   "idx": 100,
+   "vicini": [
+    "belgrado",
+    "bucarest",
+    "nis",
+    "salonicco",
+    "transilvania",
+    "varna"
+   ],
+   "mari": [],
+   "cap": "BUL",
+   "conf": {
+    "bucarest": {
+     "f": 1
+    },
+    "transilvania": {
+     "f": 1
+    }
+   }
+  },
+  "stalingrado": {
+   "n": "Stalingrado",
+   "naz": "URSS",
+   "x": 0.85847,
+   "y": 0.35633,
+   "idx": 101,
+   "vicini": [
+    "astrachan",
+    "baskuncak",
+    "elista",
+    "gurev",
+    "lugansk",
+    "rostov",
+    "saratov",
+    "voronez"
+   ],
+   "mari": [],
+   "rif": "urss",
+   "chiave": "URSS",
+   "conf": {
+    "baskuncak": {
+     "f": 1
+    },
+    "gurev": {
+     "f": 1
+    },
+    "lugansk": {
+     "f": 1
+    }
+   }
+  },
+  "stalino": {
+   "n": "Stalino",
+   "naz": "URSS",
+   "x": 0.76062,
+   "y": 0.40422,
+   "idx": 102,
+   "vicini": [
+    "charkov",
+    "dnepropetrovsk",
+    "lugansk",
+    "rostov",
+    "sebastopoli"
+   ],
+   "mari": [
+    "Mar Nero"
+   ]
+  },
+  "stoccarda": {
+   "n": "Stoccarda",
+   "naz": "GER",
+   "x": 0.3326,
+   "y": 0.45382,
+   "idx": 103,
+   "vicini": [
+    "francoforte",
+    "lipsia",
+    "monaco",
+    "nancy"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ],
+   "conf": {
+    "nancy": {
+     "f": 1,
+     "l": 1
+    }
+   }
+  },
+  "suez": {
+   "n": "Suez",
+   "naz": "EGI",
+   "x": 0.75981,
+   "y": 0.90593,
+   "idx": 104,
+   "vicini": [
+    "alessandria"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ],
+   "rif": "alleati",
+   "conf": {
+    "alessandria": {
+     "s": 1
+    }
+   }
+  },
+  "sverdlovsk": {
+   "n": "Sverdlovsk",
+   "naz": "URSS",
+   "x": 0.94625,
+   "y": 0.08552,
+   "idx": 105,
+   "vicini": [
+    "celjabinsk",
+    "komi",
+    "perm"
+   ],
+   "mari": [],
+   "terr": [
+    "montagna"
+   ],
+   "rif": "urss",
+   "est": 1
+  },
+  "syktyvkar": {
+   "n": "Syktyvkar",
+   "naz": "URSS",
+   "x": 0.76505,
+   "y": 0.04561,
+   "idx": 106,
+   "vicini": [
+    "arcangelo",
+    "kirov",
+    "komi",
+    "vladimir",
+    "vologda"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ]
+  },
+  "tallinn": {
+   "n": "Tallinn",
+   "naz": "URSS",
+   "x": 0.56292,
+   "y": 0.14937,
+   "idx": 107,
+   "vicini": [
+    "dvinsk",
+    "leningrado",
+    "pskov",
+    "riga"
+   ],
+   "mari": [
+    "Baltico"
+   ]
+  },
+  "tarnopol": {
+   "n": "Tarnopol",
+   "naz": "URSS",
+   "x": 0.57137,
+   "y": 0.41562,
+   "idx": 108,
+   "vicini": [
+    "brasov",
+    "debrecen",
+    "kovel",
+    "pripjat",
+    "tarnow",
+    "vinnica"
+   ],
+   "mari": []
+  },
+  "tarnow": {
+   "n": "Tarnów",
+   "naz": "GER",
+   "x": 0.5158,
+   "y": 0.42588,
+   "idx": 109,
+   "vicini": [
+    "debrecen",
+    "kovel",
+    "praga",
+    "tarnopol",
+    "varsavia"
+   ],
+   "mari": []
+  },
+  "taza": {
+   "n": "Taza",
+   "naz": "AFN",
+   "x": 0.09221,
+   "y": 0.85975,
+   "idx": 110,
+   "vicini": [
+    "casablanca",
+    "orano"
+   ],
+   "mari": []
+  },
+  "tbilisi": {
+   "n": "Tbilisi",
+   "naz": "URSS",
+   "x": 0.87377,
+   "y": 0.51197,
+   "idx": 111,
+   "vicini": [
+    "baku",
+    "elista",
+    "groznyj",
+    "majkop"
+   ],
+   "mari": [
+    "Mar Nero"
+   ],
+   "conf": {
+    "elista": {
+     "a": 1
+    },
+    "groznyj": {
+     "a": 1
+    },
+    "majkop": {
+     "a": 1
+    }
+   }
+  },
+  "tebessa": {
+   "n": "Tébessa",
+   "naz": "AFN",
+   "x": 0.26414,
+   "y": 0.85405,
+   "idx": 112,
+   "vicini": [
+    "algeri",
+    "mareth",
+    "tunisi"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "tobruch": {
+   "n": "Tobruch",
+   "naz": "LIB",
+   "x": 0.59432,
+   "y": 0.93786,
+   "idx": 113,
+   "vicini": [
+    "bengasi",
+    "bir_hacheim",
+    "marsa_matruh"
+   ],
+   "mari": [
+    "Mediterraneo or."
+   ],
+   "fort": 1
+  },
+  "transilvania": {
+   "n": "Transilvania",
+   "naz": "ROM",
+   "x": 0.54319,
+   "y": 0.5268,
+   "idx": 115,
+   "vicini": [
+    "belgrado",
+    "brasov",
+    "bucarest",
+    "debrecen",
+    "sofia"
+   ],
+   "mari": [],
+   "conf": {
+    "belgrado": {
+     "f": 1
+    },
+    "sofia": {
+     "f": 1
+    }
+   }
+  },
+  "tripoli": {
+   "n": "Tripoli",
+   "naz": "LIB",
+   "x": 0.3793,
+   "y": 0.94755,
+   "idx": 116,
+   "vicini": [
+    "mareth",
+    "sirte"
+   ],
+   "mari": [
+    "Mediterraneo occ."
+   ]
+  },
+  "trondheim": {
+   "n": "Trondheim",
+   "naz": "NOR",
+   "x": 0.35837,
+   "y": 0.03991,
+   "idx": 117,
+   "vicini": [
+    "bergen",
+    "oslo"
+   ],
+   "mari": [
+    "Mare del Nord"
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "tula": {
+   "n": "Tula",
+   "naz": "URSS",
+   "x": 0.70989,
+   "y": 0.22007,
+   "idx": 118,
+   "vicini": [
+    "brjansk",
+    "kalinin",
+    "kursk",
+    "mosca",
+    "rjazan",
+    "smolensk",
+    "voronez"
+   ],
+   "mari": [],
+   "fort": 1
+  },
+  "tunisi": {
+   "n": "Tunisi",
+   "naz": "AFN",
+   "x": 0.31971,
+   "y": 0.84436,
+   "idx": 119,
+   "vicini": [
+    "mareth",
+    "tebessa"
+   ],
+   "mari": [
+    "Mediterraneo occ.",
+    "Mediterraneo or."
+   ]
+  },
+  "toscana": {
+   "n": "Toscana",
+   "naz": "ITA",
+   "x": 0.35071,
+   "y": 0.59122,
+   "idx": 114,
+   "vicini": [
+    "milano",
+    "roma",
+    "veneto"
+   ],
+   "mari": [
+    "Adriatico",
+    "Mediterraneo occ."
+   ],
+   "terr": [
+    "montagna"
+   ]
+  },
+  "usa": {
+   "n": "Stati Uniti",
+   "naz": "USA",
+   "x": 0.02819,
+   "y": 0.4675,
+   "idx": 120,
+   "vicini": [
+    "canada"
+   ],
+   "mari": [
+    "Atlantico"
+   ],
+   "rif": "alleati",
+   "cap": "USA"
+  },
+  "varna": {
+   "n": "Varna",
+   "naz": "BUL",
+   "x": 0.61405,
+   "y": 0.61117,
+   "idx": 121,
+   "vicini": [
+    "bucarest",
+    "costanza",
+    "salonicco",
+    "sofia"
+   ],
+   "mari": [
+    "Mar Nero"
+   ],
+   "conf": {
+    "bucarest": {
+     "f": 1
+    },
+    "costanza": {
+     "f": 1
+    }
+   }
+  },
+  "veneto": {
+   "n": "Veneto",
+   "naz": "ITA",
+   "x": 0.35796,
+   "y": 0.54276,
+   "idx": 123,
+   "vicini": [
+    "milano",
+    "monaco",
+    "toscana",
+    "vienna",
+    "zagabria"
+   ],
+   "mari": [
+    "Adriatico"
+   ],
+   "conf": {
+    "monaco": {
+     "a": 1
+    },
+    "vienna": {
+     "a": 1
+    }
+   }
+  },
+  "vichy": {
+   "n": "Vichy",
+   "naz": "FRA",
+   "x": 0.2279,
+   "y": 0.53478,
+   "idx": 124,
+   "vicini": [
+    "bordeaux",
+    "marsiglia",
+    "montpellier",
+    "nancy",
+    "nantes",
+    "parigi"
+   ],
+   "mari": []
+  },
+  "vienna": {
+   "n": "Vienna",
+   "naz": "GER",
+   "x": 0.41635,
+   "y": 0.4829,
+   "idx": 125,
+   "vicini": [
+    "budapest",
+    "dresda",
+    "monaco",
+    "praga",
+    "veneto",
+    "zagabria"
+   ],
+   "mari": [],
+   "conf": {
+    "veneto": {
+     "a": 1
+    }
+   }
+  },
+  "vilnius": {
+   "n": "Vilnius",
+   "naz": "URSS",
+   "x": 0.55124,
+   "y": 0.27195,
+   "idx": 126,
+   "vicini": [
+    "dvinsk",
+    "konigsberg",
+    "kovel",
+    "minsk",
+    "riga",
+    "varsavia"
+   ],
+   "mari": []
+  },
+  "vinnica": {
+   "n": "Vinnica",
+   "naz": "URSS",
+   "x": 0.61969,
+   "y": 0.42759,
+   "idx": 127,
+   "vicini": [
+    "brasov",
+    "dnepropetrovsk",
+    "kiev",
+    "odessa",
+    "pripjat",
+    "tarnopol"
+   ],
+   "mari": []
+  },
+  "vladimir": {
+   "n": "Vladimir",
+   "naz": "URSS",
+   "x": 0.78156,
+   "y": 0.07355,
+   "idx": 128,
+   "vicini": [
+    "gorkij",
+    "kirov",
+    "mosca",
+    "syktyvkar",
+    "vologda"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ]
+  },
+  "volchov": {
+   "n": "Volchov",
+   "naz": "URSS",
+   "x": 0.66962,
+   "y": 0.07184,
+   "idx": 129,
+   "vicini": [
+    "arcangelo",
+    "kalinin",
+    "leningrado",
+    "petrozavodsk",
+    "vologda"
+   ],
+   "mari": [],
+   "terr": [
+    "palude"
+   ]
+  },
+  "vologda": {
+   "n": "Vologda",
+   "naz": "URSS",
+   "x": 0.71955,
+   "y": 0.08153,
+   "idx": 130,
+   "vicini": [
+    "arcangelo",
+    "kalinin",
+    "mosca",
+    "syktyvkar",
+    "vladimir",
+    "volchov"
+   ],
+   "mari": [],
+   "terr": [
+    "foresta"
+   ]
+  },
+  "voronez": {
+   "n": "Voronež",
+   "naz": "URSS",
+   "x": 0.78035,
+   "y": 0.2748,
+   "idx": 131,
+   "vicini": [
+    "kursk",
+    "lugansk",
+    "rjazan",
+    "saratov",
+    "stalingrado",
+    "tula"
+   ],
+   "mari": [],
+   "conf": {
+    "lugansk": {
+     "f": 1
+    }
+   }
+  },
+  "varsavia": {
+   "n": "Varsavia",
+   "naz": "GER",
+   "x": 0.50695,
+   "y": 0.34436,
+   "idx": 122,
+   "vicini": [
+    "breslavia",
+    "konigsberg",
+    "kovel",
+    "praga",
+    "tarnow",
+    "vilnius"
+   ],
+   "mari": []
+  },
+  "zagabria": {
+   "n": "Zagabria",
+   "naz": "JUG",
+   "x": 0.43286,
+   "y": 0.54561,
+   "idx": 132,
+   "vicini": [
+    "belgrado",
+    "budapest",
+    "montenegro",
+    "veneto",
+    "vienna"
+   ],
+   "mari": [
+    "Adriatico"
+   ],
+   "terr": [
+    "montagna"
+   ]
+  }
+ },
+ "mari": [
+  "Atlantico",
+  "Biscaglia",
+  "Manica",
+  "Mare del Nord",
+  "Baltico",
+  "Mediterraneo occ.",
+  "Adriatico",
+  "Mediterraneo or.",
+  "Mar Nero",
+  "Caspio"
+ ],
+ "mari_adiacenti": [
+  [
+   "Atlantico",
+   "Biscaglia"
+  ],
+  [
+   "Atlantico",
+   "Manica"
+  ],
+  [
+   "Atlantico",
+   "Mare del Nord"
+  ],
+  [
+   "Biscaglia",
+   "Manica"
+  ],
+  [
+   "Manica",
+   "Mare del Nord"
+  ],
+  [
+   "Mare del Nord",
+   "Baltico"
+  ],
+  [
+   "Atlantico",
+   "Mediterraneo occ."
+  ],
+  [
+   "Mediterraneo occ.",
+   "Mediterraneo or."
+  ],
+  [
+   "Mediterraneo or.",
+   "Adriatico"
+  ],
+  [
+   "Mediterraneo occ.",
+   "Adriatico"
+  ]
+ ],
+ "linee_sbarco": [
+  [
+   "scozia",
+   "trondheim"
+  ],
+  [
+   "scozia",
+   "irlanda"
+  ],
+  [
+   "irlanda",
+   "scozia"
+  ],
+  [
+   "plymouth",
+   "bretagna"
+  ],
+  [
+   "bretagna",
+   "plymouth"
+  ],
+  [
+   "plymouth",
+   "normandia"
+  ],
+  [
+   "normandia",
+   "plymouth"
+  ],
+  [
+   "londra",
+   "normandia"
+  ],
+  [
+   "normandia",
+   "londra"
+  ],
+  [
+   "londra",
+   "calais"
+  ],
+  [
+   "calais",
+   "londra"
+  ],
+  [
+   "oslo",
+   "copenaghen"
+  ],
+  [
+   "copenaghen",
+   "oslo"
+  ],
+  [
+   "tunisi",
+   "sicilia"
+  ],
+  [
+   "sicilia",
+   "napoli"
+  ],
+  [
+   "kazakistan",
+   "groznyj"
+  ],
+  [
+   "kazakistan",
+   "baku"
+  ]
+ ],
+ "linee_med": [
+  [
+   "tunisi",
+   "sicilia"
+  ],
+  [
+   "sicilia",
+   "napoli"
+  ]
+ ],
+ "sbarchi_d": {
+  "irlanda": [
+   "america"
+  ],
+  "scozia": [
+   "america"
+  ],
+  "manchester": [
+   "america"
+  ],
+  "plymouth": [
+   "america"
+  ],
+  "nantes": [
+   "america",
+   "uk"
+  ],
+  "bordeaux": [
+   "america",
+   "uk"
+  ],
+  "casablanca": [
+   "america"
+  ],
+  "orano": [
+   "america"
+  ],
+  "algeri": [
+   "america"
+  ],
+  "suez": [
+   "america"
+  ],
+  "bruxelles": [
+   "uk"
+  ],
+  "bergen": [
+   "uk"
+  ],
+  "marsiglia": [
+   "tunisi"
+  ]
+ },
+ "sedi": {
+  "GER": "asse",
+  "ITA": "asse",
+  "FIN": "asse",
+  "ROM": "asse",
+  "UNG": "asse",
+  "BUL": "asse",
+  "LIB": "asse",
+  "GB": "alleati",
+  "USA": "alleati",
+  "FRA": "alleati",
+  "BEL": "alleati",
+  "GRE": "alleati",
+  "JUG": "alleati",
+  "EGI": "alleati",
+  "AFN": "alleati",
+  "URSS": "urss",
+  "NOR": "",
+  "DAN": ""
+ }
+}

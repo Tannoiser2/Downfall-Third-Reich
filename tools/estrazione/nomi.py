@@ -1,0 +1,21 @@
+# mappa segmenti (seg2) -> nome area
+N = {
+2:'Trondheim',276:'Bergen',374:'Oslo',859:'Copenhagen',947:'Copenhagen',
+934:'Ireland',987:'Manchester',1118:'Plymouth',1145:'London',1170:'Canada',1245:'USA',
+1099:'Hamburg',1103:'Berlin',1088:'Danzig',1017:'Königsberg',1151:'Breslau',1143:'Warsaw',1203:'Tarnow',
+1192:'Leipzig',1201:'Dresden',1234:'Prague',1123:'Ruhr',1219:'Frankfurt',1268:'Stuttgart',1273:'Munich',1278:'Vienna',
+1159:'Brussels',1216:'Calais',1258:'Reims',1256:'Normandy',1270:'Brittany',1283:'Paris',1281:'Nancy',1394:'Nantes',
+1491:'Vichy',1580:'Bordeaux',1598:'Montpellier',1538:'Marseille',
+1547:'Milan',1520:'Veneto',1619:'Tuscany',1699:'Rome',1856:'Naples',1808:'Naples',1887:'Calabria',1935:'Calabria',2035:'Sicily',
+1541:'Zagreb',1609:'Zagreb',1620:'Montenegro',1563:'Belgrade',1686:'Nis',1630:'Sofia',1636:'Varna',
+1797:'Salonica',1875:'Ioannina',1933:'Ioannina',2018:'Athens',1776:'Albania',
+1361:'Brasov',1362:'Transylvania',1515:'Bucharest',1548:'Constanta',1334:'Budapest',
+5:'Helsinki',8:'Karelia',232:'Karelia',378:'Leningrad',204:'Volkhov',16:'Petrozavodsk',21:'Archangelsk',28:'Syktyvkar',34:'Komi',
+38:'Sverdlovsk',304:'Vologda',345:'Vladimir',234:'Kirov',382:'Perm',571:'Gorky',576:'Moscow',579:'Kalinin',575:'Tallinn',636:'Pskov',
+765:'Riga',769:'Dvinsk',865:'Smolensk',885:'Tula',860:'Ryazan',652:'Penza',623:'Kuybyshev',540:'Chelyabinsk',780:'Kazakhstan',
+879:'Saratov',890:'Baskunchak',1093:'Guryev',971:'Vilnius',1013:'Minsk',1030:'Bryansk',1087:'Kursk',1044:'Voronezh',1116:'Stalingrad',
+1126:'Kovel',1121:'Pripet',1136:'Kiev',1156:'Kharkov',1138:'Lugansk',1230:'Tarnopol',1228:'Vinnitsa',1223:'Dnipropetrovsk',
+1209:'Stalino',1183:'Rostov',1218:'Elista',1182:'Astrakhan',1266:'Maikop',1414:'Tbilisi',1401:'Baku',1269:'Sebastopol',1279:'Odessa',1286:'Debrecen',1271:'Grozny',667:'Scotland',2177:'Alexandria',2163:'Suez',
+2083:'Casablanca',2096:'Taza',2072:'Oran',2068:'Algiers',2073:'Tebessa',2069:'Tunis',2159:'Mareth',2280:'Tripoli',2302:'Sirte',
+2347:'El Agheila',2235:'Benghazi',2239:'Tobruk',2356:'Bir Hacheim',2291:'Matruh',2275:'El Alamein',
+}
